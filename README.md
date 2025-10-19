@@ -1,6 +1,5 @@
-<<<<<<< HEAD
 # GraphColarCSP
-=======
+
 #  Problem 2 — CSP: Graph Coloring with Backtracking, MRV, LCV, and AC-3
 
 ##  Overview
