@@ -33,4 +33,4 @@ The implementation reads a graph from a text file, applies the CSP algorithms, a
 ##  Input Format
 
 A simple text file (e.g., `csp_small.txt`):
->>>>>>> 6462562 (Problem 2 — CSP: Graph Coloring with Backtracking, MRV, LCV, and AC-3 solved)
+(Problem 2 — CSP: Graph Coloring with Backtracking, MRV, LCV, and AC-3 solved)
